@@ -1,0 +1,10 @@
+{
+  "latest": "0.6.0",
+  "releases": [
+    {
+      "version": "0.6.0",
+      "firmware": "https://github.com/Vladlebed/airso-button/releases/download/v0.6.0/firmware.bin",
+      "littlefs": "https://github.com/Vladlebed/airso-button/releases/download/v0.6.0/littlefs.bin"
+    }
+  ]
+}
